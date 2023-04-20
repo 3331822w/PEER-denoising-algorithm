@@ -271,4 +271,4 @@ def main(top_dir):
                            
 #————————test————————#
 if __name__ == "__main__":
-    main('C:/Users/lgkgroup/Desktop/test')#此处放总文件夹路径
+    main('C:/Users/lgkgroup/Desktop/test')#Drop the total folder path here
